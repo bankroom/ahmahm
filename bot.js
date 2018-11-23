@@ -10,7 +10,7 @@ client.on('ready', async() => {
 var server = "515311164696166400"; // ايدي السررفر
 var channel = "515588905832284170";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , **')
+    client.guilds.get(server).channels.get(channel).send('**ezookik1 , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , ezookik , **')
   },305);
 })
 
